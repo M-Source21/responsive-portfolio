@@ -68,6 +68,7 @@ body {
   color: #212529;
   text-align: left;
   background-color: #fff;
+  
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -200,6 +201,7 @@ figure {
 img {
   vertical-align: middle;
   border-style: none;
+ 
 }
 
 svg {
@@ -10233,6 +10235,8 @@ body {
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;
+  
+  
 }
 .masthead h1 {
   font-family: "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
