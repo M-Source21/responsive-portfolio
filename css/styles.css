@@ -12,14 +12,19 @@
  */
 #navBarText {
   font-family:"Times New Roman";
-  color:black;
+  color:white;
 
 }
 
-#buttons {
+#selfie{
   border-style: solid;
   border-width: medium;
-  border-color: 64a19d ; 
+  border-color: 64a19d ;
+}
+/* #buttons {
+  border-style: solid;
+  border-width: medium;
+  border-color: 64a19d ;  */
 }
 
  :root {
