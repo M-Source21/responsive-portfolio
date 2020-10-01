@@ -21,6 +21,11 @@
   border-width: medium;
   border-color: 64a19d ;
 }
+
+#git {
+  color:white;
+  font-family:"Times New Roman";
+}
 /* #buttons {
   border-style: solid;
   border-width: medium;
